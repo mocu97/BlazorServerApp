@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "6xcrsAcTKQNNGSycPWkIwxwSpUvOOzmrXulLqx5KIkWj+SyVfHDFNjnPbjsG17vmLmr+fKPcyhJ/Nsh7wfzLng==",
+  "dgSpecHash": "bD9EIraE0itxf/TjjyirUkfcEFzwIRtN4MMI49f+0XUuSCZoG0vdnT/EX/80f1s3oSpN/Le08oxzy9nbSpaN6w==",
   "success": true,
   "projectFilePath": "c:\\Users\\Silence\\Desktop\\Repozytoria\\BlazorServerApp\\TestAppBlazor\\TestAppBlazor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Silence\\.nuget\\packages\\binance.net\\9.1.4\\binance.net.9.1.4.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\cryptoexchange.net\\6.1.5\\cryptoexchange.net.6.1.5.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.32\\microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.http\\3.1.32\\microsoft.extensions.http.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.logging\\3.1.32\\microsoft.extensions.logging.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.32\\microsoft.extensions.logging.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.options\\3.1.32\\microsoft.extensions.options.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\Silence\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
